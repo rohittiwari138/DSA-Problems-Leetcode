@@ -27,6 +27,7 @@ To build strong problem-solving skills and prepare for **coding interviews & int
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/rohittiwari138/DSA/tree/master/0053-maximum-subarray) |
+| [0136-single-number](https://github.com/rohittiwari138/DSA/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/rohittiwari138/DSA/tree/master/0152-maximum-product-subarray) |
 | [0268-missing-number](https://github.com/rohittiwari138/DSA/tree/master/0268-missing-number) |
 ## Hash Table
@@ -44,6 +45,7 @@ To build strong problem-solving skills and prepare for **coding interviews & int
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/rohittiwari138/DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/rohittiwari138/DSA/tree/master/0268-missing-number) |
 ## Sorting
 |  |
