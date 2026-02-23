@@ -27,6 +27,7 @@ To build strong problem-solving skills and prepare for **coding interviews & int
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rohittiwari138/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/rohittiwari138/DSA/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/rohittiwari138/DSA/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/rohittiwari138/DSA/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/rohittiwari138/DSA/tree/master/0152-maximum-product-subarray) |
@@ -44,6 +45,7 @@ To build strong problem-solving skills and prepare for **coding interviews & int
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rohittiwari138/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/rohittiwari138/DSA/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/rohittiwari138/DSA/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/rohittiwari138/DSA/tree/master/0704-binary-search) |
 ## Bit Manipulation
