@@ -33,6 +33,7 @@ To build strong problem-solving skills and prepare for **coding interviews & int
 | [0152-maximum-product-subarray](https://github.com/rohittiwari138/DSA/tree/master/0152-maximum-product-subarray) |
 | [0268-missing-number](https://github.com/rohittiwari138/DSA/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/rohittiwari138/DSA/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/rohittiwari138/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,6 +50,7 @@ To build strong problem-solving skills and prepare for **coding interviews & int
 | [0268-missing-number](https://github.com/rohittiwari138/DSA/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/rohittiwari138/DSA/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/rohittiwari138/DSA/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/rohittiwari138/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Bit Manipulation
 |  |
 | ------- |
