@@ -26,6 +26,7 @@ To build strong problem-solving skills and prepare for **coding interviews & int
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/rohittiwari138/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rohittiwari138/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/rohittiwari138/DSA/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/rohittiwari138/DSA/tree/master/0053-maximum-subarray) |
@@ -46,6 +47,7 @@ To build strong problem-solving skills and prepare for **coding interviews & int
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/rohittiwari138/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rohittiwari138/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/rohittiwari138/DSA/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rohittiwari138/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
