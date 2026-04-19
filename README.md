@@ -33,6 +33,7 @@ To build strong problem-solving skills and prepare for **coding interviews & int
 | [0136-single-number](https://github.com/rohittiwari138/DSA/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/rohittiwari138/DSA/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rohittiwari138/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0217-contains-duplicate](https://github.com/rohittiwari138/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/rohittiwari138/DSA/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/rohittiwari138/DSA/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rohittiwari138/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -42,6 +43,7 @@ To build strong problem-solving skills and prepare for **coding interviews & int
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/rohittiwari138/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/rohittiwari138/DSA/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -72,6 +74,7 @@ To build strong problem-solving skills and prepare for **coding interviews & int
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/rohittiwari138/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/rohittiwari138/DSA/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
