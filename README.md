@@ -42,6 +42,7 @@ To build strong problem-solving skills and prepare for **coding interviews & int
 | [0875-koko-eating-bananas](https://github.com/rohittiwari138/DSA/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/rohittiwari138/DSA/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/rohittiwari138/DSA/tree/master/0918-maximum-sum-circular-subarray) |
+| [1572-matrix-diagonal-sum](https://github.com/rohittiwari138/DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/rohittiwari138/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Hash Table
 |  |
@@ -128,4 +129,5 @@ To build strong problem-solving skills and prepare for **coding interviews & int
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/rohittiwari138/DSA/tree/master/0074-search-a-2d-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/rohittiwari138/DSA/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
