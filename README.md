@@ -30,6 +30,7 @@ To build strong problem-solving skills and prepare for **coding interviews & int
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rohittiwari138/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/rohittiwari138/DSA/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/rohittiwari138/DSA/tree/master/0053-maximum-subarray) |
+| [0074-search-a-2d-matrix](https://github.com/rohittiwari138/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0136-single-number](https://github.com/rohittiwari138/DSA/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/rohittiwari138/DSA/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rohittiwari138/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -62,6 +63,7 @@ To build strong problem-solving skills and prepare for **coding interviews & int
 | [0033-search-in-rotated-sorted-array](https://github.com/rohittiwari138/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rohittiwari138/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/rohittiwari138/DSA/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/rohittiwari138/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rohittiwari138/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/rohittiwari138/DSA/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/rohittiwari138/DSA/tree/master/0278-first-bad-version) |
@@ -122,4 +124,8 @@ To build strong problem-solving skills and prepare for **coding interviews & int
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/rohittiwari138/DSA/tree/master/0287-find-the-duplicate-number) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/rohittiwari138/DSA/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
