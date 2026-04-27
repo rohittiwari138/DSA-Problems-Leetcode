@@ -34,6 +34,7 @@ To build strong problem-solving skills and prepare for **coding interviews & int
 | [0136-single-number](https://github.com/rohittiwari138/DSA/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/rohittiwari138/DSA/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rohittiwari138/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/rohittiwari138/DSA/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/rohittiwari138/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/rohittiwari138/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/rohittiwari138/DSA/tree/master/0283-move-zeroes) |
@@ -69,6 +70,7 @@ To build strong problem-solving skills and prepare for **coding interviews & int
 | [0035-search-insert-position](https://github.com/rohittiwari138/DSA/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/rohittiwari138/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rohittiwari138/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/rohittiwari138/DSA/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/rohittiwari138/DSA/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/rohittiwari138/DSA/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/rohittiwari138/DSA/tree/master/0287-find-the-duplicate-number) |
