@@ -26,6 +26,7 @@ To build strong problem-solving skills and prepare for **coding interviews & int
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rohittiwari138/DSA/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/rohittiwari138/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rohittiwari138/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/rohittiwari138/DSA/tree/master/0035-search-insert-position) |
@@ -50,6 +51,7 @@ To build strong problem-solving skills and prepare for **coding interviews & int
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rohittiwari138/DSA/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/rohittiwari138/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/rohittiwari138/DSA/tree/master/0268-missing-number) |
 ## Math
