@@ -40,6 +40,7 @@ To build strong problem-solving skills and prepare for **coding interviews & int
 | [0268-missing-number](https://github.com/rohittiwari138/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/rohittiwari138/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/rohittiwari138/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/rohittiwari138/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/rohittiwari138/DSA/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rohittiwari138/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/rohittiwari138/DSA/tree/master/0875-koko-eating-bananas) |
@@ -77,6 +78,7 @@ To build strong problem-solving skills and prepare for **coding interviews & int
 | [0278-first-bad-version](https://github.com/rohittiwari138/DSA/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/rohittiwari138/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/rohittiwari138/DSA/tree/master/0367-valid-perfect-square) |
+| [0540-single-element-in-a-sorted-array](https://github.com/rohittiwari138/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/rohittiwari138/DSA/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rohittiwari138/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/rohittiwari138/DSA/tree/master/0875-koko-eating-bananas) |
