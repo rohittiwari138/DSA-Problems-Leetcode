@@ -58,6 +58,7 @@ To build strong problem-solving skills and prepare for **coding interviews & int
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/rohittiwari138/DSA/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/rohittiwari138/DSA/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/rohittiwari138/DSA/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/rohittiwari138/DSA/tree/master/0412-fizz-buzz) |
@@ -103,6 +104,7 @@ To build strong problem-solving skills and prepare for **coding interviews & int
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/rohittiwari138/DSA/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/rohittiwari138/DSA/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/rohittiwari138/DSA/tree/master/0152-maximum-product-subarray) |
 | [0877-stone-game](https://github.com/rohittiwari138/DSA/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/rohittiwari138/DSA/tree/master/0918-maximum-sum-circular-subarray) |
@@ -142,4 +144,8 @@ To build strong problem-solving skills and prepare for **coding interviews & int
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/rohittiwari138/DSA/tree/master/0074-search-a-2d-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/rohittiwari138/DSA/tree/master/1572-matrix-diagonal-sum) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/rohittiwari138/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
