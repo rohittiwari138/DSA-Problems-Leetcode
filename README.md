@@ -40,6 +40,7 @@ To build strong problem-solving skills and prepare for **coding interviews & int
 | [0268-missing-number](https://github.com/rohittiwari138/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/rohittiwari138/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/rohittiwari138/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0414-third-maximum-number](https://github.com/rohittiwari138/DSA/tree/master/0414-third-maximum-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rohittiwari138/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/rohittiwari138/DSA/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rohittiwari138/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -95,6 +96,7 @@ To build strong problem-solving skills and prepare for **coding interviews & int
 | ------- |
 | [0217-contains-duplicate](https://github.com/rohittiwari138/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/rohittiwari138/DSA/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/rohittiwari138/DSA/tree/master/0414-third-maximum-number) |
 ## Divide and Conquer
 |  |
 | ------- |
