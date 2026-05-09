@@ -59,6 +59,7 @@ To build strong problem-solving skills and prepare for **coding interviews & int
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/rohittiwari138/DSA/tree/master/0029-divide-two-integers) |
 | [0070-climbing-stairs](https://github.com/rohittiwari138/DSA/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/rohittiwari138/DSA/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/rohittiwari138/DSA/tree/master/0367-valid-perfect-square) |
@@ -87,6 +88,7 @@ To build strong problem-solving skills and prepare for **coding interviews & int
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/rohittiwari138/DSA/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/rohittiwari138/DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/rohittiwari138/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/rohittiwari138/DSA/tree/master/0287-find-the-duplicate-number) |
