@@ -66,6 +66,7 @@ To build strong problem-solving skills and prepare for **coding interviews & int
 | [0367-valid-perfect-square](https://github.com/rohittiwari138/DSA/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/rohittiwari138/DSA/tree/master/0412-fizz-buzz) |
 | [0877-stone-game](https://github.com/rohittiwari138/DSA/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/rohittiwari138/DSA/tree/master/1025-divisor-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/rohittiwari138/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rohittiwari138/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/rohittiwari138/DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -114,6 +115,7 @@ To build strong problem-solving skills and prepare for **coding interviews & int
 | [0152-maximum-product-subarray](https://github.com/rohittiwari138/DSA/tree/master/0152-maximum-product-subarray) |
 | [0877-stone-game](https://github.com/rohittiwari138/DSA/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/rohittiwari138/DSA/tree/master/0918-maximum-sum-circular-subarray) |
+| [1025-divisor-game](https://github.com/rohittiwari138/DSA/tree/master/1025-divisor-game) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/rohittiwari138/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Interactive
 |  |
@@ -123,6 +125,7 @@ To build strong problem-solving skills and prepare for **coding interviews & int
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/rohittiwari138/DSA/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/rohittiwari138/DSA/tree/master/1025-divisor-game) |
 ## Queue
 |  |
 | ------- |
@@ -155,4 +158,8 @@ To build strong problem-solving skills and prepare for **coding interviews & int
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/rohittiwari138/DSA/tree/master/0070-climbing-stairs) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/rohittiwari138/DSA/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
