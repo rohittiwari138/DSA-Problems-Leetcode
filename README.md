@@ -48,6 +48,7 @@ To build strong problem-solving skills and prepare for **coding interviews & int
 | [0877-stone-game](https://github.com/rohittiwari138/DSA/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/rohittiwari138/DSA/tree/master/0905-sort-array-by-parity) |
 | [0918-maximum-sum-circular-subarray](https://github.com/rohittiwari138/DSA/tree/master/0918-maximum-sum-circular-subarray) |
+| [1512-number-of-good-pairs](https://github.com/rohittiwari138/DSA/tree/master/1512-number-of-good-pairs) |
 | [1572-matrix-diagonal-sum](https://github.com/rohittiwari138/DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/rohittiwari138/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1929-concatenation-of-array](https://github.com/rohittiwari138/DSA/tree/master/1929-concatenation-of-array) |
@@ -57,6 +58,7 @@ To build strong problem-solving skills and prepare for **coding interviews & int
 | [0001-two-sum](https://github.com/rohittiwari138/DSA/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/rohittiwari138/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/rohittiwari138/DSA/tree/master/0268-missing-number) |
+| [1512-number-of-good-pairs](https://github.com/rohittiwari138/DSA/tree/master/1512-number-of-good-pairs) |
 ## Math
 |  |
 | ------- |
@@ -69,6 +71,7 @@ To build strong problem-solving skills and prepare for **coding interviews & int
 | [1025-divisor-game](https://github.com/rohittiwari138/DSA/tree/master/1025-divisor-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/rohittiwari138/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rohittiwari138/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1512-number-of-good-pairs](https://github.com/rohittiwari138/DSA/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/rohittiwari138/DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 ## Binary Search
 |  |
@@ -162,4 +165,8 @@ To build strong problem-solving skills and prepare for **coding interviews & int
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/rohittiwari138/DSA/tree/master/1025-divisor-game) |
+## Counting
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/rohittiwari138/DSA/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
