@@ -149,6 +149,7 @@ To build strong problem-solving skills and prepare for **coding interviews & int
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/rohittiwari138/DSA/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/rohittiwari138/DSA/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
@@ -163,6 +164,7 @@ To build strong problem-solving skills and prepare for **coding interviews & int
 | [0075-sort-colors](https://github.com/rohittiwari138/DSA/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/rohittiwari138/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/rohittiwari138/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0344-reverse-string](https://github.com/rohittiwari138/DSA/tree/master/0344-reverse-string) |
 | [0905-sort-array-by-parity](https://github.com/rohittiwari138/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/rohittiwari138/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Matrix
