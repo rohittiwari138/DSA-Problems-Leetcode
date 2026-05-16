@@ -65,6 +65,7 @@ To build strong problem-solving skills and prepare for **coding interviews & int
 | [0217-contains-duplicate](https://github.com/rohittiwari138/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/rohittiwari138/DSA/tree/master/0268-missing-number) |
 | [1512-number-of-good-pairs](https://github.com/rohittiwari138/DSA/tree/master/1512-number-of-good-pairs) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/rohittiwari138/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Math
 |  |
 | ------- |
@@ -156,6 +157,7 @@ To build strong problem-solving skills and prepare for **coding interviews & int
 | [0344-reverse-string](https://github.com/rohittiwari138/DSA/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/rohittiwari138/DSA/tree/master/0412-fizz-buzz) |
 | [1108-defanging-an-ip-address](https://github.com/rohittiwari138/DSA/tree/master/1108-defanging-an-ip-address) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/rohittiwari138/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Simulation
 |  |
 | ------- |
