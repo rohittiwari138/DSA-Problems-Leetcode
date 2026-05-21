@@ -160,6 +160,7 @@ To build strong problem-solving skills and prepare for **coding interviews & int
 | ------- |
 | [0344-reverse-string](https://github.com/rohittiwari138/DSA/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/rohittiwari138/DSA/tree/master/0412-fizz-buzz) |
+| [0709-to-lower-case](https://github.com/rohittiwari138/DSA/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/rohittiwari138/DSA/tree/master/1108-defanging-an-ip-address) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rohittiwari138/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/rohittiwari138/DSA/tree/master/1859-sorting-the-sentence) |
