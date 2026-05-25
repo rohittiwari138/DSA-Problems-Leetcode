@@ -56,6 +56,7 @@ To build strong problem-solving skills and prepare for **coding interviews & int
 | [0977-squares-of-a-sorted-array](https://github.com/rohittiwari138/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1512-number-of-good-pairs](https://github.com/rohittiwari138/DSA/tree/master/1512-number-of-good-pairs) |
 | [1572-matrix-diagonal-sum](https://github.com/rohittiwari138/DSA/tree/master/1572-matrix-diagonal-sum) |
+| [1732-find-the-highest-altitude](https://github.com/rohittiwari138/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/rohittiwari138/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1929-concatenation-of-array](https://github.com/rohittiwari138/DSA/tree/master/1929-concatenation-of-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rohittiwari138/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -202,4 +203,8 @@ To build strong problem-solving skills and prepare for **coding interviews & int
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/rohittiwari138/DSA/tree/master/0506-relative-ranks) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/rohittiwari138/DSA/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
