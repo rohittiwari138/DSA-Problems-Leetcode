@@ -83,6 +83,7 @@ To build strong problem-solving skills and prepare for **coding interviews & int
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rohittiwari138/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/rohittiwari138/DSA/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/rohittiwari138/DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1688-count-of-matches-in-tournament](https://github.com/rohittiwari138/DSA/tree/master/1688-count-of-matches-in-tournament) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rohittiwari138/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/rohittiwari138/DSA/tree/master/2652-sum-multiples) |
 | [3099-harshad-number](https://github.com/rohittiwari138/DSA/tree/master/3099-harshad-number) |
@@ -170,6 +171,7 @@ To build strong problem-solving skills and prepare for **coding interviews & int
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/rohittiwari138/DSA/tree/master/0412-fizz-buzz) |
+| [1688-count-of-matches-in-tournament](https://github.com/rohittiwari138/DSA/tree/master/1688-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/rohittiwari138/DSA/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
