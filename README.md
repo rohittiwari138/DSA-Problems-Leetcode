@@ -41,6 +41,7 @@ To build strong problem-solving skills and prepare for **coding interviews & int
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/rohittiwari138/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/rohittiwari138/DSA/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/rohittiwari138/DSA/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/rohittiwari138/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/rohittiwari138/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/rohittiwari138/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/rohittiwari138/DSA/tree/master/0287-find-the-duplicate-number) |
@@ -65,6 +66,7 @@ To build strong problem-solving skills and prepare for **coding interviews & int
 | ------- |
 | [0001-two-sum](https://github.com/rohittiwari138/DSA/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/rohittiwari138/DSA/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/rohittiwari138/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/rohittiwari138/DSA/tree/master/0268-missing-number) |
 | [1512-number-of-good-pairs](https://github.com/rohittiwari138/DSA/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rohittiwari138/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -119,6 +121,7 @@ To build strong problem-solving skills and prepare for **coding interviews & int
 | [0015-3sum](https://github.com/rohittiwari138/DSA/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/rohittiwari138/DSA/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/rohittiwari138/DSA/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/rohittiwari138/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/rohittiwari138/DSA/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/rohittiwari138/DSA/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/rohittiwari138/DSA/tree/master/0506-relative-ranks) |
@@ -200,6 +203,7 @@ To build strong problem-solving skills and prepare for **coding interviews & int
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/rohittiwari138/DSA/tree/master/0229-majority-element-ii) |
 | [1512-number-of-good-pairs](https://github.com/rohittiwari138/DSA/tree/master/1512-number-of-good-pairs) |
 ## Heap (Priority Queue)
 |  |
