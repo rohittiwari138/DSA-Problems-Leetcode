@@ -65,6 +65,7 @@ To build strong problem-solving skills and prepare for **coding interviews & int
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rohittiwari138/DSA/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/rohittiwari138/DSA/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/rohittiwari138/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/rohittiwari138/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/rohittiwari138/DSA/tree/master/0268-missing-number) |
@@ -76,6 +77,7 @@ To build strong problem-solving skills and prepare for **coding interviews & int
 | ------- |
 | [0029-divide-two-integers](https://github.com/rohittiwari138/DSA/tree/master/0029-divide-two-integers) |
 | [0070-climbing-stairs](https://github.com/rohittiwari138/DSA/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/rohittiwari138/DSA/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/rohittiwari138/DSA/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/rohittiwari138/DSA/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/rohittiwari138/DSA/tree/master/0412-fizz-buzz) |
@@ -182,6 +184,7 @@ To build strong problem-solving skills and prepare for **coding interviews & int
 | [0015-3sum](https://github.com/rohittiwari138/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rohittiwari138/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/rohittiwari138/DSA/tree/master/0075-sort-colors) |
+| [0202-happy-number](https://github.com/rohittiwari138/DSA/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/rohittiwari138/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/rohittiwari138/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/rohittiwari138/DSA/tree/master/0344-reverse-string) |
