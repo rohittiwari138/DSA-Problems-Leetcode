@@ -75,6 +75,7 @@ To build strong problem-solving skills and prepare for **coding interviews & int
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/rohittiwari138/DSA/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/rohittiwari138/DSA/tree/master/0029-divide-two-integers) |
 | [0070-climbing-stairs](https://github.com/rohittiwari138/DSA/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/rohittiwari138/DSA/tree/master/0202-happy-number) |
