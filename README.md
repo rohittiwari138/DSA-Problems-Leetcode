@@ -46,6 +46,7 @@ To build strong problem-solving skills and prepare for **coding interviews & int
 | [0283-move-zeroes](https://github.com/rohittiwari138/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/rohittiwari138/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/rohittiwari138/DSA/tree/master/0414-third-maximum-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rohittiwari138/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0506-relative-ranks](https://github.com/rohittiwari138/DSA/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rohittiwari138/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/rohittiwari138/DSA/tree/master/0704-binary-search) |
@@ -69,6 +70,7 @@ To build strong problem-solving skills and prepare for **coding interviews & int
 | [0217-contains-duplicate](https://github.com/rohittiwari138/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/rohittiwari138/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/rohittiwari138/DSA/tree/master/0268-missing-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rohittiwari138/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/rohittiwari138/DSA/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rohittiwari138/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/rohittiwari138/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
