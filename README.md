@@ -175,6 +175,7 @@ To build strong problem-solving skills and prepare for **coding interviews & int
 | [0709-to-lower-case](https://github.com/rohittiwari138/DSA/tree/master/0709-to-lower-case) |
 | [1021-remove-outermost-parentheses](https://github.com/rohittiwari138/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/rohittiwari138/DSA/tree/master/1108-defanging-an-ip-address) |
+| [1678-goal-parser-interpretation](https://github.com/rohittiwari138/DSA/tree/master/1678-goal-parser-interpretation) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rohittiwari138/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/rohittiwari138/DSA/tree/master/1859-sorting-the-sentence) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/rohittiwari138/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
