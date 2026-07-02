@@ -173,6 +173,7 @@ To build strong problem-solving skills and prepare for **coding interviews & int
 | [0409-longest-palindrome](https://github.com/rohittiwari138/DSA/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/rohittiwari138/DSA/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/rohittiwari138/DSA/tree/master/0709-to-lower-case) |
+| [1021-remove-outermost-parentheses](https://github.com/rohittiwari138/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/rohittiwari138/DSA/tree/master/1108-defanging-an-ip-address) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rohittiwari138/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/rohittiwari138/DSA/tree/master/1859-sorting-the-sentence) |
@@ -225,4 +226,8 @@ To build strong problem-solving skills and prepare for **coding interviews & int
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/rohittiwari138/DSA/tree/master/0409-longest-palindrome) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/rohittiwari138/DSA/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
