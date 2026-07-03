@@ -134,6 +134,7 @@ To build strong problem-solving skills and prepare for **coding interviews & int
 | [0905-sort-array-by-parity](https://github.com/rohittiwari138/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/rohittiwari138/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1859-sorting-the-sentence](https://github.com/rohittiwari138/DSA/tree/master/1859-sorting-the-sentence) |
+| [2785-sort-vowels-in-a-string](https://github.com/rohittiwari138/DSA/tree/master/2785-sort-vowels-in-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -178,6 +179,7 @@ To build strong problem-solving skills and prepare for **coding interviews & int
 | [1678-goal-parser-interpretation](https://github.com/rohittiwari138/DSA/tree/master/1678-goal-parser-interpretation) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rohittiwari138/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/rohittiwari138/DSA/tree/master/1859-sorting-the-sentence) |
+| [2785-sort-vowels-in-a-string](https://github.com/rohittiwari138/DSA/tree/master/2785-sort-vowels-in-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/rohittiwari138/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Simulation
 |  |
