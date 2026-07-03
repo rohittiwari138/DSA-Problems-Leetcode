@@ -57,6 +57,7 @@ To build strong problem-solving skills and prepare for **coding interviews & int
 | [0918-maximum-sum-circular-subarray](https://github.com/rohittiwari138/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/rohittiwari138/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1512-number-of-good-pairs](https://github.com/rohittiwari138/DSA/tree/master/1512-number-of-good-pairs) |
+| [1528-shuffle-string](https://github.com/rohittiwari138/DSA/tree/master/1528-shuffle-string) |
 | [1572-matrix-diagonal-sum](https://github.com/rohittiwari138/DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1732-find-the-highest-altitude](https://github.com/rohittiwari138/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/rohittiwari138/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -178,6 +179,7 @@ To build strong problem-solving skills and prepare for **coding interviews & int
 | [0709-to-lower-case](https://github.com/rohittiwari138/DSA/tree/master/0709-to-lower-case) |
 | [1021-remove-outermost-parentheses](https://github.com/rohittiwari138/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/rohittiwari138/DSA/tree/master/1108-defanging-an-ip-address) |
+| [1528-shuffle-string](https://github.com/rohittiwari138/DSA/tree/master/1528-shuffle-string) |
 | [1678-goal-parser-interpretation](https://github.com/rohittiwari138/DSA/tree/master/1678-goal-parser-interpretation) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rohittiwari138/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/rohittiwari138/DSA/tree/master/1859-sorting-the-sentence) |
