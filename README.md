@@ -183,6 +183,7 @@ To build strong problem-solving skills and prepare for **coding interviews & int
 | [1678-goal-parser-interpretation](https://github.com/rohittiwari138/DSA/tree/master/1678-goal-parser-interpretation) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rohittiwari138/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/rohittiwari138/DSA/tree/master/1859-sorting-the-sentence) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/rohittiwari138/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2785-sort-vowels-in-a-string](https://github.com/rohittiwari138/DSA/tree/master/2785-sort-vowels-in-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/rohittiwari138/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Simulation
@@ -192,6 +193,7 @@ To build strong problem-solving skills and prepare for **coding interviews & int
 | [0415-add-strings](https://github.com/rohittiwari138/DSA/tree/master/0415-add-strings) |
 | [1688-count-of-matches-in-tournament](https://github.com/rohittiwari138/DSA/tree/master/1688-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/rohittiwari138/DSA/tree/master/1929-concatenation-of-array) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/rohittiwari138/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Two Pointers
 |  |
 | ------- |
