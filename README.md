@@ -172,6 +172,7 @@ To build strong problem-solving skills and prepare for **coding interviews & int
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rohittiwari138/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0344-reverse-string](https://github.com/rohittiwari138/DSA/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/rohittiwari138/DSA/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/rohittiwari138/DSA/tree/master/0412-fizz-buzz) |
@@ -199,6 +200,7 @@ To build strong problem-solving skills and prepare for **coding interviews & int
 | ------- |
 | [0015-3sum](https://github.com/rohittiwari138/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rohittiwari138/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rohittiwari138/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/rohittiwari138/DSA/tree/master/0075-sort-colors) |
 | [0202-happy-number](https://github.com/rohittiwari138/DSA/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/rohittiwari138/DSA/tree/master/0283-move-zeroes) |
@@ -240,4 +242,8 @@ To build strong problem-solving skills and prepare for **coding interviews & int
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/rohittiwari138/DSA/tree/master/1021-remove-outermost-parentheses) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rohittiwari138/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
