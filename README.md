@@ -97,6 +97,7 @@ To build strong problem-solving skills and prepare for **coding interviews & int
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rohittiwari138/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/rohittiwari138/DSA/tree/master/2652-sum-multiples) |
 | [3099-harshad-number](https://github.com/rohittiwari138/DSA/tree/master/3099-harshad-number) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/rohittiwari138/DSA/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -161,6 +162,7 @@ To build strong problem-solving skills and prepare for **coding interviews & int
 | ------- |
 | [0877-stone-game](https://github.com/rohittiwari138/DSA/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/rohittiwari138/DSA/tree/master/1025-divisor-game) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/rohittiwari138/DSA/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Queue
 |  |
 | ------- |
@@ -195,6 +197,7 @@ To build strong problem-solving skills and prepare for **coding interviews & int
 | [1688-count-of-matches-in-tournament](https://github.com/rohittiwari138/DSA/tree/master/1688-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/rohittiwari138/DSA/tree/master/1929-concatenation-of-array) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/rohittiwari138/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/rohittiwari138/DSA/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Two Pointers
 |  |
 | ------- |
