@@ -71,6 +71,7 @@ To build strong problem-solving skills and prepare for **coding interviews & int
 | [0217-contains-duplicate](https://github.com/rohittiwari138/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/rohittiwari138/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/rohittiwari138/DSA/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/rohittiwari138/DSA/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/rohittiwari138/DSA/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rohittiwari138/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/rohittiwari138/DSA/tree/master/1512-number-of-good-pairs) |
@@ -123,6 +124,7 @@ To build strong problem-solving skills and prepare for **coding interviews & int
 | [0136-single-number](https://github.com/rohittiwari138/DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/rohittiwari138/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/rohittiwari138/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0389-find-the-difference](https://github.com/rohittiwari138/DSA/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rohittiwari138/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Sorting
 |  |
@@ -132,6 +134,7 @@ To build strong problem-solving skills and prepare for **coding interviews & int
 | [0217-contains-duplicate](https://github.com/rohittiwari138/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/rohittiwari138/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/rohittiwari138/DSA/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/rohittiwari138/DSA/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/rohittiwari138/DSA/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/rohittiwari138/DSA/tree/master/0506-relative-ranks) |
 | [0905-sort-array-by-parity](https://github.com/rohittiwari138/DSA/tree/master/0905-sort-array-by-parity) |
@@ -176,6 +179,7 @@ To build strong problem-solving skills and prepare for **coding interviews & int
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rohittiwari138/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0344-reverse-string](https://github.com/rohittiwari138/DSA/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/rohittiwari138/DSA/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/rohittiwari138/DSA/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/rohittiwari138/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/rohittiwari138/DSA/tree/master/0415-add-strings) |
