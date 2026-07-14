@@ -67,6 +67,7 @@ To build strong problem-solving skills and prepare for **coding interviews & int
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rohittiwari138/DSA/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/rohittiwari138/DSA/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/rohittiwari138/DSA/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/rohittiwari138/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/rohittiwari138/DSA/tree/master/0229-majority-element-ii) |
@@ -81,6 +82,7 @@ To build strong problem-solving skills and prepare for **coding interviews & int
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/rohittiwari138/DSA/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/rohittiwari138/DSA/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/rohittiwari138/DSA/tree/master/0029-divide-two-integers) |
 | [0070-climbing-stairs](https://github.com/rohittiwari138/DSA/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/rohittiwari138/DSA/tree/master/0202-happy-number) |
@@ -177,6 +179,7 @@ To build strong problem-solving skills and prepare for **coding interviews & int
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/rohittiwari138/DSA/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rohittiwari138/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0344-reverse-string](https://github.com/rohittiwari138/DSA/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/rohittiwari138/DSA/tree/master/0389-find-the-difference) |
