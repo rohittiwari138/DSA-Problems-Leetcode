@@ -102,6 +102,7 @@ To build strong problem-solving skills and prepare for **coding interviews & int
 | [2652-sum-multiples](https://github.com/rohittiwari138/DSA/tree/master/2652-sum-multiples) |
 | [3099-harshad-number](https://github.com/rohittiwari138/DSA/tree/master/3099-harshad-number) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/rohittiwari138/DSA/tree/master/3222-find-the-winning-player-in-coin-game) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/rohittiwari138/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Binary Search
 |  |
 | ------- |
@@ -262,4 +263,8 @@ To build strong problem-solving skills and prepare for **coding interviews & int
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rohittiwari138/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/rohittiwari138/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
