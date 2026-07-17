@@ -126,6 +126,7 @@ To build strong problem-solving skills and prepare for **coding interviews & int
 | ------- |
 | [0029-divide-two-integers](https://github.com/rohittiwari138/DSA/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/rohittiwari138/DSA/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/rohittiwari138/DSA/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/rohittiwari138/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/rohittiwari138/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/rohittiwari138/DSA/tree/master/0389-find-the-difference) |
@@ -149,6 +150,7 @@ To build strong problem-solving skills and prepare for **coding interviews & int
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/rohittiwari138/DSA/tree/master/0053-maximum-subarray) |
+| [0190-reverse-bits](https://github.com/rohittiwari138/DSA/tree/master/0190-reverse-bits) |
 | [0918-maximum-sum-circular-subarray](https://github.com/rohittiwari138/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
 |  |
