@@ -47,6 +47,7 @@ To build strong problem-solving skills and prepare for **coding interviews & int
 | [0287-find-the-duplicate-number](https://github.com/rohittiwari138/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/rohittiwari138/DSA/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rohittiwari138/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0500-keyboard-row](https://github.com/rohittiwari138/DSA/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/rohittiwari138/DSA/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rohittiwari138/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/rohittiwari138/DSA/tree/master/0704-binary-search) |
@@ -76,6 +77,7 @@ To build strong problem-solving skills and prepare for **coding interviews & int
 | [0389-find-the-difference](https://github.com/rohittiwari138/DSA/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/rohittiwari138/DSA/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rohittiwari138/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0500-keyboard-row](https://github.com/rohittiwari138/DSA/tree/master/0500-keyboard-row) |
 | [1512-number-of-good-pairs](https://github.com/rohittiwari138/DSA/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rohittiwari138/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/rohittiwari138/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -191,6 +193,7 @@ To build strong problem-solving skills and prepare for **coding interviews & int
 | [0409-longest-palindrome](https://github.com/rohittiwari138/DSA/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/rohittiwari138/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/rohittiwari138/DSA/tree/master/0415-add-strings) |
+| [0500-keyboard-row](https://github.com/rohittiwari138/DSA/tree/master/0500-keyboard-row) |
 | [0709-to-lower-case](https://github.com/rohittiwari138/DSA/tree/master/0709-to-lower-case) |
 | [1021-remove-outermost-parentheses](https://github.com/rohittiwari138/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/rohittiwari138/DSA/tree/master/1108-defanging-an-ip-address) |
