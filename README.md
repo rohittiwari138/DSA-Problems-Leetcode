@@ -45,6 +45,7 @@ To build strong problem-solving skills and prepare for **coding interviews & int
 | [0268-missing-number](https://github.com/rohittiwari138/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/rohittiwari138/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/rohittiwari138/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/rohittiwari138/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/rohittiwari138/DSA/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rohittiwari138/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/rohittiwari138/DSA/tree/master/0500-keyboard-row) |
@@ -74,6 +75,7 @@ To build strong problem-solving skills and prepare for **coding interviews & int
 | [0217-contains-duplicate](https://github.com/rohittiwari138/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/rohittiwari138/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/rohittiwari138/DSA/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/rohittiwari138/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/rohittiwari138/DSA/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/rohittiwari138/DSA/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rohittiwari138/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -118,6 +120,7 @@ To build strong problem-solving skills and prepare for **coding interviews & int
 | [0268-missing-number](https://github.com/rohittiwari138/DSA/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/rohittiwari138/DSA/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/rohittiwari138/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/rohittiwari138/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/rohittiwari138/DSA/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rohittiwari138/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/rohittiwari138/DSA/tree/master/0704-binary-search) |
@@ -141,6 +144,7 @@ To build strong problem-solving skills and prepare for **coding interviews & int
 | [0217-contains-duplicate](https://github.com/rohittiwari138/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/rohittiwari138/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/rohittiwari138/DSA/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/rohittiwari138/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/rohittiwari138/DSA/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/rohittiwari138/DSA/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/rohittiwari138/DSA/tree/master/0506-relative-ranks) |
@@ -224,6 +228,7 @@ To build strong problem-solving skills and prepare for **coding interviews & int
 | [0283-move-zeroes](https://github.com/rohittiwari138/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/rohittiwari138/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/rohittiwari138/DSA/tree/master/0344-reverse-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/rohittiwari138/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0905-sort-array-by-parity](https://github.com/rohittiwari138/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/rohittiwari138/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Matrix
