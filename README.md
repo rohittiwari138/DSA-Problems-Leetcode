@@ -284,5 +284,10 @@ To build strong problem-solving skills and prepare for **coding interviews & int
 ## Bubble Sort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/rohittiwari138/DSA/tree/master/0075-sort-colors) |
 | [1859-sorting-the-sentence](https://github.com/rohittiwari138/DSA/tree/master/1859-sorting-the-sentence) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/rohittiwari138/DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
