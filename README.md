@@ -281,4 +281,8 @@ To build strong problem-solving skills and prepare for **coding interviews & int
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rohittiwari138/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Bubble Sort
+|  |
+| ------- |
+| [1859-sorting-the-sentence](https://github.com/rohittiwari138/DSA/tree/master/1859-sorting-the-sentence) |
 <!---LeetCode Topics End-->
