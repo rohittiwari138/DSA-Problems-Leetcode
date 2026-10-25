@@ -40,6 +40,7 @@ To build strong problem-solving skills and prepare for **coding interviews & int
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rohittiwari138/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/rohittiwari138/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/rohittiwari138/DSA/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/rohittiwari138/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rohittiwari138/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/rohittiwari138/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/rohittiwari138/DSA/tree/master/0268-missing-number) |
@@ -72,6 +73,7 @@ To build strong problem-solving skills and prepare for **coding interviews & int
 | [0001-two-sum](https://github.com/rohittiwari138/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rohittiwari138/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/rohittiwari138/DSA/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/rohittiwari138/DSA/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/rohittiwari138/DSA/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/rohittiwari138/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/rohittiwari138/DSA/tree/master/0229-majority-element-ii) |
@@ -142,6 +144,7 @@ To build strong problem-solving skills and prepare for **coding interviews & int
 | ------- |
 | [0015-3sum](https://github.com/rohittiwari138/DSA/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/rohittiwari138/DSA/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/rohittiwari138/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rohittiwari138/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/rohittiwari138/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/rohittiwari138/DSA/tree/master/0268-missing-number) |
@@ -158,6 +161,7 @@ To build strong problem-solving skills and prepare for **coding interviews & int
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/rohittiwari138/DSA/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/rohittiwari138/DSA/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/rohittiwari138/DSA/tree/master/0190-reverse-bits) |
 | [0918-maximum-sum-circular-subarray](https://github.com/rohittiwari138/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
@@ -250,6 +254,7 @@ To build strong problem-solving skills and prepare for **coding interviews & int
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/rohittiwari138/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/rohittiwari138/DSA/tree/master/0229-majority-element-ii) |
 | [1512-number-of-good-pairs](https://github.com/rohittiwari138/DSA/tree/master/1512-number-of-good-pairs) |
 ## Heap (Priority Queue)
@@ -290,4 +295,8 @@ To build strong problem-solving skills and prepare for **coding interviews & int
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/rohittiwari138/DSA/tree/master/0075-sort-colors) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/rohittiwari138/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
