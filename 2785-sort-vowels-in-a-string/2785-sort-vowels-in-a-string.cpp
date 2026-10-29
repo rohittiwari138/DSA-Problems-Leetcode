@@ -4,42 +4,46 @@ public:
         vector<int>lower(26,0);
         vector<int>upper(26,0);
         for(int i=0;i<s.size();i++){
-            if(s[i]=='a' || s[i]=='e' || s[i]=='i' || s[i]=='o'|| s[i]=='u'){
+            //lower - a e i o u
+            //upper - A E I O U
+            if(s[i]=='a'||s[i]=='e'||s[i]=='i'||s[i]=='o'||s[i]=='u'){
             lower[s[i]-'a']++;
             s[i]='#';
             }
-            else if(s[i]=='A' || s[i]=='E' || s[i]=='I' || s[i]=='O' || s[i]=='U'){
-                upper[s[i]-'A']++;
-                s[i]='#';
+            else if(s[i]=='A'|| s[i]=='E'||s[i]=='I'||s[i]=='O'||s[i]=='U'){
+            upper[s[i]-'A']++;
+            s[i]='#';
             }
-        } 
-            string ans;
-            for(int i=0;i<26;i++){
-                char c = 'A'+i;
-                while(upper[i]){
-                ans += c;
+
+        }
+        string vowel;
+        //upper
+        //lower
+        for(int i=0;i<26;i++){
+            char c = 'A'+i;
+            while(upper[i]){
+                vowel += c;
                 upper[i]--;
-                }
+            }
+        }
+        for(int i=0;i<26;i++){
+            char c = 'a'+i;
+            while(lower[i]){
+                vowel +=c;
+                lower[i]--;
+            }
+        }
+        int first =0; //first point kar rha hai S ko
+        int second = 0;  // second point kar rha hai vowel ke index ko
+        while(second<vowel.size()){
+            if(s[first]=='#'){
+            s[first]=vowel[second];
+            second++;
+            }
+            first++;
+        }
+        return s;
 
-            }
-            for(int i=0;i<26;i++){
-                char c = 'a'+i;
-                while(lower[i]){
-                    ans += c;
-                    lower[i]--;
-                }
-            }
-            int first = 0;  // ye original string ko point kr rha hai that is string s
-            int second = 0;  // ye ans ko point kr rha hai
-
-            while(second<ans.size()){
-                if(s[first]=='#'){
-                s[first]=ans[second];
-                second++;
-                }
-                first++;
-            }
-            return s;
 
     }
 };
